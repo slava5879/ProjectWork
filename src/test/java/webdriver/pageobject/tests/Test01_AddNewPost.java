@@ -11,6 +11,7 @@ import static junit.framework.TestCase.assertTrue;
 
 /**
  * Created by Slava on 09.05.2016.
+ * the test was placed on Git
  */
 public class Test01_AddNewPost extends CommonMethods {
 
